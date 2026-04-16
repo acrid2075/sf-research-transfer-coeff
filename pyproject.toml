@@ -1,13 +1,13 @@
 [project]
-name = "sf-research"
+name = "transfer_coeff"
 version = "0.1.0"
-description = "Research Module Reserachers"
+description = "Looks for the transfer coefficient on portfolio generation."
 readme = "README.md"
 requires-python = ">=3.13, <3.14"
 dependencies = [
     "numpy>=2.3.2",
     "polars>=1.32.3",
-    "sf-quant==0.1.23",
+    "sf-quant==0.2.7",
     "sf-backtester>=0.1.1",
     "marimo[lsp,mcp]>=0.19.7",
     "plotly>=6.5.2",
