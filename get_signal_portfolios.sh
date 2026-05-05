@@ -12,7 +12,7 @@
 set -euo pipefail
 set -x
 
-source /home/acriddl2/Projects/new_comb_alphas/.venv/bin/activate
+source /home/acriddl2/Projects/sf-research-transfer-coeff/.venv/bin/activate
 
 export OMP_NUM_THREADS=1
 export MKL_NUM_THREADS=1

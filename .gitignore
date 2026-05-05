@@ -9,6 +9,8 @@ __pycache__/
 /data*
 /data/
 *.parquet
+signal_a_w/*
+signal_t_w/*
 
 # C extensions
 *.so
